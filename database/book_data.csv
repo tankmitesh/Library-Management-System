@@ -1,0 +1,4 @@
+id,title,author,isbn,genre,lang,added_date,availability,delete,delete_at
+,Machine Learning,RP Khanna,cls,Tech,English,28-07-2024,True,False,
+fc3eeb51-0cd2-4538-8c5e-bc17c826dbd5,Angel and Demons,Dan Brown,989878,Adventure,English,28-07-2024,True,False,
+7f726a60-b07a-47b3-8885-2175b06f4010,Da Vinci Code,Dan Brown,9898788,Adventure,English,28-07-2024,True,True,
